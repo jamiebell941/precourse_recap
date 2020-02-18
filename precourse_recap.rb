@@ -12,7 +12,9 @@ end
 
 rappers = ["Kendrick Lamar", "Childish Gambino", "Mac Miller", "Vince Staples"]
 
-in_bruges = {"Director" => "Martin McDonagh", "Lead" => "Colin Farrel", "Support" => "Brendon Gleeson"}
+in_bruges = {"Director" => "Martin McDonagh",
+   "Lead" => "Colin Farrel",
+   "Support" => "Brendon Gleeson"}
 
 counter = 1
 target = 13
